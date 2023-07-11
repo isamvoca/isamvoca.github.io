@@ -1,0 +1,132 @@
+.Desktop{
+    width: 1440px; 
+    height: 1024px; 
+    position: relative;
+    background: white; 
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)
+}
+.ttbench{
+    width: 1916px; 
+    height: 1066px; 
+    left: -308px; 
+    top: 0px; 
+    position: absolute; 
+    opacity: 0.70
+}
+.TrenBench {
+    width: 677px; 
+    height: 355px; 
+    left: 668px; 
+    top: 603px; 
+    position: absolute; 
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)
+}
+.Rectangle {
+    width: 775px; 
+    height: 66px; 
+    left: 307px; 
+    top: 43px; 
+    position: absolute; 
+    background: #D9D9D9; 
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)
+}
+.BarbellBenchPress {
+    left: 476px; 
+    top: 46px; 
+    position: absolute; 
+    color: black; 
+    font-size: 50px; 
+    font-family: Inria Serif; 
+    font-weight: 400; 
+    word-wrap: break-word
+}
+.ArnoldChest{
+    width: 457px; 
+    height: 571px; 
+    left: 59px; 
+    top: 391px; 
+    position: absolute; 
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)
+}
+.Arrow{
+    width: 81px; 
+    height: 0px; 
+    left: 307px; 
+    top: 296px; 
+    position: absolute; 
+    transform: rotate(90deg); 
+    transform-origin: 0 0; 
+    border: 1.50px black solid
+}
+.Rectangl{
+    width: 516px; 
+    height: 62px; 
+    left: 59px; 
+    top: 219px; 
+    position: absolute; 
+    background: #D9D9D9;
+     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)
+}
+.tab{
+    width: 524px; 
+    height: 48px; 
+    left: 67px; 
+    top: 233px; 
+    position: absolute; 
+    color: black; 
+    font-size: 30px; 
+    font-family: Inria Serif; 
+    font-weight: 400; 
+    word-wrap: break-word
+}
+.Group{
+    width: 751px; 
+    height: 248px; 
+    left: 668px; 
+    top: 267px; 
+    position: absolute
+}
+.Rectang {
+    width: 751px; 
+    height: 248px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute; 
+    background: #D9D9D9
+}
+.ua{
+    left: 12px; 
+    top: 14px;
+    position: absolute; 
+    color: black; 
+    font-size: 20px; 
+    font-family: Inria Serif; 
+    font-weight: 400; 
+    word-wrap: break-word
+}
+.Back {
+    height: 29px; 
+    left: 55px; 
+    top: 56px; 
+    position: absolute
+}
+.Arro{
+    width: 191px; 
+    height: 0px; 
+    left: 191px; 
+    top: 29px; 
+    position: absolute; 
+    transform: rotate(-180deg); 
+    transform-origin: 0 0; 
+    border: 1.50px black solid
+}
+.Bac {
+    left: 73px; 
+    top: 0px; 
+    position: absolute; 
+    color: black; 
+    font-size: 20px; 
+    font-family: Inria Serif; 
+    font-weight: 400; 
+    word-wrap: break-word
+}
